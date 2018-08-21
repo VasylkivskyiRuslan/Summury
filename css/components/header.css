@@ -1,0 +1,2 @@
+body{font-size:16px;line-height:18px;display:-ms-grid;display:grid}body .header{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around;height:70px;background-color:#232323;border-bottom:6px solid #400}body .header__logo a{display:block;font:3em/70px "KaushanScript-Regular";color:red;text-decoration:none}body .header__logo a span{font-size:.75em;color:#fff}
+/*# sourceMappingURL=../maps/components/header.css.map */
